@@ -14,4 +14,7 @@ public class User implements Localizable {
     }
 
     //TODO
+    public Boolean isInside(){
+        return null
+    }
 }
